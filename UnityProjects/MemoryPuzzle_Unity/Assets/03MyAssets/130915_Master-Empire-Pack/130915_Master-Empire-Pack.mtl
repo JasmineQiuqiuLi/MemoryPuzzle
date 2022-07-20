@@ -1,0 +1,1937 @@
+newmtl Automan_-_Barcelona_-_Black_Leather
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Leather.Black.png
+map_Kd Furnishings.Fabrics.Leather.Black.png
+newmtl Automan_-_Barcelona_-_Chrome
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Bench_-_Naoto_Fukasawa_-_Cloud_Bench_Leg
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Bench_-_Naoto_Fukasawa_-_Cloud_Bench_Sea
+Ka 0.572549019607843 0.141176470588235 1
+Kd 0.572549019607843 0.141176470588235 1
+d 0
+newmtl Bench_-_Leif.designpark_-_030_lin_bench_
+Ka 0.964705882352941 0.643137254901961 0.188235294117647
+Kd 0.964705882352941 0.643137254901961 0.188235294117647
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Pine.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Pine.png
+newmtl Bench_-_Joachim_Kleine_Allekotte_-_T3_Be
+Ka 0.419607843137255 0.137254901960784 0
+Kd 0.419607843137255 0.137254901960784 0
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Mahogany.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Mahogany.png
+newmtl Bench_-_Genova_-_Bench_Tall_Seat
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Leather.Black.png
+map_Kd Furnishings.Fabrics.Leather.Black.png
+newmtl Bench_-_Genova_-_Bench_Tall_Legs
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Bench_-_Genova_-_Bench_Seat
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Leather.Black.png
+map_Kd Furnishings.Fabrics.Leather.Black.png
+newmtl Bench_-_Genova_-_Bench_Legs
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Bench_-_Deesawat_-_Leaf_Bench_Seat
+Ka 0.847058823529412 0.694117647058824 0.43921568627451
+Kd 0.847058823529412 0.694117647058824 0.43921568627451
+d 0
+newmtl Bench_-_Deesawat_-_Leaf_Bench_Legs
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Bench_-_Boss_Design_-_Digit_Bench_-_Conv
+Ka 0.309803921568627 0.776470588235294 1
+Kd 0.309803921568627 0.776470588235294 1
+d 0
+newmtl Bench_-_Boss_Design_-_Digit_Bench_-_Conc
+Ka 0.309803921568627 0.776470588235294 1
+Kd 0.309803921568627 0.776470588235294 1
+d 0
+newmtl Bed_-_Trix_-_Bed_-_Black_Plastic
+Ka 0.0196078431372549 0.0196078431372549 0.0196078431372549
+Kd 0.0196078431372549 0.0196078431372549 0.0196078431372549
+d 0
+newmtl Bed_-_Trix_-_Bed_-_White_Fabric
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Canvas.white.png
+map_Kd Furnishings.Fabrics.Canvas.white.png
+newmtl Bed_PoulKjaerholmPk80Bench_BlackPlastic
+Ka 0.0196078431372549 0.0196078431372549 0.0196078431372549
+Kd 0.0196078431372549 0.0196078431372549 0.0196078431372549
+d 0
+newmtl Bed_PoulKjaerholmPk80Bench_BlackLeather
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Leather.Black.png
+map_Kd Furnishings.Fabrics.Leather.Black.png
+newmtl Bed_PoulKjaerholmPk80Bench_PolishedChrom
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Bed_PoulKjaerholmPk80Bench_BlackMetal
+Ka 0 0 0
+Kd 0 0 0
+d 0
+newmtl Chair_-_Albert_Center_Seat
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Velvet.Black.png
+map_Kd Furnishings.Fabrics.Velvet.Black.png
+newmtl Chair_-_Albert_Center_Seat_Legs
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_A.G._Fronzoni_-_Fronzoni_'64__FR
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Velvet.Red.png
+map_Kd Furnishings.Fabrics.Velvet.Red.png
+newmtl Chair_-_1942_Amelia_Legs
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_1942_Amelia_Seat
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Leather.Black.png
+map_Kd Furnishings.Fabrics.Leather.Black.png
+newmtl Chair_-_1937_Zaphiro_Legs
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_1937_Zaphiro_Seat
+Ka 1 0.764705882352941 0.568627450980392
+Kd 1 0.764705882352941 0.568627450980392
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Maple.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Maple.png
+newmtl Chair_-_Boss_Design_-_Lofa_Chair_Seat
+Ka 1 0.501960784313725 0
+Kd 1 0.501960784313725 0
+d 0
+newmtl Chair_-_Boss_Design_-_Lofa_Chair_Legs
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Boss_Design_-_Layla_Landscape_Ch
+Ka 0.717647058823529 0 0
+Kd 0.717647058823529 0 0
+d 0
+newmtl Chair_-_Boss_Design_-_Layla_Chair_Seat
+Ka 1 0.945098039215686 0.682352941176471
+Kd 1 0.945098039215686 0.682352941176471
+d 0
+newmtl Chair_-_Boss_Design_-_Layla_Chair_Legs
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Boss_Design_-_Harry_Chair_Seat
+Ka 0.501960784313725 0.501960784313725 1
+Kd 0.501960784313725 0.501960784313725 1
+d 0
+newmtl Chair_-_Boss_Design_-_Harry_Chair_Legs
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Boss_Design_-_Dipi_Chair_Seat
+Ka 0.325490196078431 0.325490196078431 1
+Kd 0.325490196078431 0.325490196078431 1
+d 0
+newmtl Chair_-_Boss_Design_-_Dipi_Chair_Legs
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Boss_Design_-_Dick_Chair_Seat
+Ka 1 0.501960784313725 1
+Kd 1 0.501960784313725 1
+d 0
+newmtl Chair_-_Boss_Design_-_Dick_Chair_Legs
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Boss_Design_-_Boxer_Chair_Seat
+Ka 0.654901960784314 1 0.309803921568627
+Kd 0.654901960784314 1 0.309803921568627
+d 0
+newmtl Chair_-_Boss_Design_-_Boxer_Chair_Legs
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Boss_Design_-_Adda_Two_Seater_Se
+Ka 0.917647058823529 0.917647058823529 0.917647058823529
+Kd 0.917647058823529 0.917647058823529 0.917647058823529
+d 0
+newmtl Chair_-_Boss_Design_-_Adda_Two_Seater_Le
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Boss_Design_-_Adda_Chair_Seat
+Ka 0.356862745098039 0.356862745098039 1
+Kd 0.356862745098039 0.356862745098039 1
+d 0
+newmtl Chair_-_Boss_Design_-_Adda_Chair_Legs
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Blu_Dot_-_Timber_Chair
+Ka 0.0666666666666667 0.0666666666666667 0.0666666666666667
+Kd 0.0666666666666667 0.0666666666666667 0.0666666666666667
+d 0
+newmtl Chair_-_Blu_Dot_-_Knicker_Dining_Chair_L
+Ka 0.811764705882353 0.337254901960784 0
+Kd 0.811764705882353 0.337254901960784 0
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Teak.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Teak.png
+newmtl Chair_-_Blu_Dot_-_Knicker_Dining_Chair_S
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Canvas.white.png
+map_Kd Furnishings.Fabrics.Canvas.white.png
+newmtl Chair_-_Bernard_-_Arm_Chair_Leg
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Bernard_-_Arm_Chair_Seat
+Ka 1 0.501960784313725 0
+Kd 1 0.501960784313725 0
+d 0
+newmtl Chair_-_Bellino_Sofa_-_Arm_Chair_Leg
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Bellino_Sofa_-_Arm_Chair_Seat
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Velvet.Black.png
+map_Kd Furnishings.Fabrics.Velvet.Black.png
+newmtl Chair_-_Barcelona_-_Black_Leather
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Velvet.Black.png
+map_Kd Furnishings.Fabrics.Velvet.Black.png
+newmtl Chair_-_Barcelona_-_Chrome_Metal
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Bantam_-_Armchair_Seat
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Linen.Beige.png
+map_Kd Furnishings.Fabrics.Linen.Beige.png
+newmtl Chair_-_Bantam_-_Armchair_Leg
+Ka 0.0196078431372549 0.0196078431372549 0.0196078431372549
+Kd 0.0196078431372549 0.0196078431372549 0.0196078431372549
+d 0
+newmtl Chair_-_AVL_-_Shaker_Chair
+Ka 0.529411764705882 0 0
+Kd 0.529411764705882 0 0
+d 0
+newmtl Chair_-_AloSide_Legs
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_AloSide_Seat
+Ka 0 0 0
+Kd 0 0 0
+d 0
+newmtl Chair_-_Albert_Sierra_Seat
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Velvet.Black.png
+map_Kd Furnishings.Fabrics.Velvet.Black.png
+newmtl Chair_-_Albert_Sierra_Legs
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Albert_Corner_Seat
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Velvet.Black.png
+map_Kd Furnishings.Fabrics.Velvet.Black.png
+newmtl Chair_-_Albert_Corner_Legs
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Albert_Chaise_Seat
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Velvet.Black.png
+map_Kd Furnishings.Fabrics.Velvet.Black.png
+newmtl Chair_-_Albert_Chaise_Legs
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Libre_-_One_Seater_Chair_Seat
+Ka 1 0.184313725490196 0.592156862745098
+Kd 1 0.184313725490196 0.592156862745098
+d 0
+newmtl Chair_-_Libre_-_One_Seater_Chair_Leg
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Libre_-_Corner_Chair_Seat
+Ka 1 0.184313725490196 0.592156862745098
+Kd 1 0.184313725490196 0.592156862745098
+d 0
+newmtl Chair_-_Libre_-_Corner_Chair_Leg
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Lady_CaNova_Design_Leg
+Ka 1 1 1
+Kd 1 1 1
+d 0
+map_Ka wild_cherry_cherry.png
+map_Kd wild_cherry_cherry.png
+newmtl Chair_-_Lady_CaNova_Design_Seat
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Canvas.white.png
+map_Kd Furnishings.Fabrics.Canvas.white.png
+newmtl Chair_-_Karim_Rashid_-_Alo_Side_Chair_Le
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Karim_Rashid_-_Alo_Side_Chair_Se
+Ka 0.917647058823529 0.917647058823529 0.917647058823529
+Kd 0.917647058823529 0.917647058823529 0.917647058823529
+d 0
+newmtl Chair_-_Kahve_-_Dining_Chair_Legs
+Ka 1 0.764705882352941 0.568627450980392
+Kd 1 0.764705882352941 0.568627450980392
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Maple.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Maple.png
+newmtl Chair_-_Kahve_-_Dining_Chair_Seat
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Linen.Beige.png
+map_Kd Furnishings.Fabrics.Linen.Beige.png
+newmtl Chair_-_Jim_-_Dining_Chair_Seat
+Ka 0.619607843137255 1 0.243137254901961
+Kd 0.619607843137255 1 0.243137254901961
+d 0
+newmtl Chair_-_Jim_-_Dining_Chair_Legs
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Jedi_Armchair_Legs
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Jedi_Armchair_Seat
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Leather.Black.png
+map_Kd Furnishings.Fabrics.Leather.Black.png
+newmtl Chair_-_Jean_Prouve_-_Dining_Chair_Legs
+Ka 0.0666666666666667 0.0666666666666667 0.0666666666666667
+Kd 0.0666666666666667 0.0666666666666667 0.0666666666666667
+d 0
+newmtl Chair_-_Jean_Prouve_-_Dining_Chair_Seat
+Ka 0.619607843137255 1 0.243137254901961
+Kd 0.619607843137255 1 0.243137254901961
+d 0
+newmtl Chair_-_Jasper_Morrison_-_Soft_Sim_Legs
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Jasper_Morrison_-_Soft_Sim_Seat
+Ka 0.0196078431372549 0.0196078431372549 0.0196078431372549
+Kd 0.0196078431372549 0.0196078431372549 0.0196078431372549
+d 0
+newmtl Chair_-_Gisele_-_Lounge_Chair_Legs
+Ka 1 0.764705882352941 0.568627450980392
+Kd 1 0.764705882352941 0.568627450980392
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Maple.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Maple.png
+newmtl Chair_-_Gisele_-_Lounge_Chair_Seat
+Ka 0.917647058823529 0.917647058823529 0.917647058823529
+Kd 0.917647058823529 0.917647058823529 0.917647058823529
+d 0
+newmtl Chair_-_Gehry_Wiggle_Chair_Cardboard
+Ka 0.701960784313725 0.588235294117647 0.474509803921569
+Kd 0.701960784313725 0.588235294117647 0.474509803921569
+d 0
+newmtl Chair_-_Gehry_Side_Chair_Cardboard
+Ka 0.701960784313725 0.588235294117647 0.474509803921569
+Kd 0.701960784313725 0.588235294117647 0.474509803921569
+d 0
+newmtl Chair_-_Frank_-_Arm_Chair_Leg
+Ka 0.0666666666666667 0.0666666666666667 0.0666666666666667
+Kd 0.0666666666666667 0.0666666666666667 0.0666666666666667
+d 0
+newmtl Chair_-_Frank_-_Arm_Chair_Seat
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Leather.Blue.png
+map_Kd Furnishings.Fabrics.Leather.Blue.png
+newmtl Chair_-_Flight_Recliner_Seat
+Ka 0.811764705882353 0.309803921568627 0
+Kd 0.811764705882353 0.309803921568627 0
+d 0
+newmtl Chair_-_Flight_Recliner_Legs
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Eero_Aarnio_-_Trioli_Chair_Seat
+Ka 0.501960784313725 0.501960784313725 1
+Kd 0.501960784313725 0.501960784313725 1
+d 0
+newmtl Chair_-_Deer_-_Dining_Chair_Seat
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Leather.Black.png
+map_Kd Furnishings.Fabrics.Leather.Black.png
+newmtl Chair_-_Deer_-_Dining_Chair_Legs
+Ka 1 0.67843137254902 0.411764705882353
+Kd 1 0.67843137254902 0.411764705882353
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Maple.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Maple.png
+newmtl Chair_-_Cindy_CaNova_Design_Seat
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Linen.Beige.png
+map_Kd Furnishings.Fabrics.Linen.Beige.png
+newmtl Chair_-_Cindy_CaNova_Design_Leg
+Ka 0.647058823529412 0 0
+Kd 0.647058823529412 0 0
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Red_Oak.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Red_Oak.png
+newmtl Chair_-_Christophe_PilletYs_Leg
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Christophe_PilletYs_Seat
+Ka 0.8 0 0
+Kd 0.8 0 0
+d 0
+newmtl Chair_-_Ca_Nova_Design_-_Lady_Chair_Leg
+Ka 0.0666666666666667 0.0666666666666667 0.0666666666666667
+Kd 0.0666666666666667 0.0666666666666667 0.0666666666666667
+d 0
+newmtl Chair_-_Ca_Nova_Design_-_Lady_Chair_Seat
+Ka 0.976470588235294 0.976470588235294 0.976470588235294
+Kd 0.976470588235294 0.976470588235294 0.976470588235294
+d 1
+map_Ka Furnishings.Fabrics.Linen.Beige.png
+map_Kd Furnishings.Fabrics.Linen.Beige.png
+newmtl Chair_-_Ca_Nova_Design_-_Cindy_Chair_Sea
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Linen.Beige.png
+map_Kd Furnishings.Fabrics.Linen.Beige.png
+newmtl Chair_-_Ca_Nova_Design_-_Cindy_Chair_Leg
+Ka 1 0.470588235294118 0.00784313725490196
+Kd 1 0.470588235294118 0.00784313725490196
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Cherry.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Cherry.png
+newmtl Chair_-_Brnono_Flat_Seat
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Velvet.Black.png
+map_Kd Furnishings.Fabrics.Velvet.Black.png
+newmtl Chair_-_Brnono_Flat_Legs
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Brnono_-_Tubular_Chair_Seat
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Leather.Black.png
+map_Kd Furnishings.Fabrics.Leather.Black.png
+newmtl Chair_-_Brnono_-_Tubular_Chair_Legs
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Boss_Design_-_Tom_Chair_Seat
+Ka 0.243137254901961 0.243137254901961 0.243137254901961
+Kd 0.243137254901961 0.243137254901961 0.243137254901961
+d 0
+newmtl Chair_-_Boss_Design_-_Tom_Chair_Legs
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Boss_Design_-_The_Eye_Chair_Seat
+Ka 1 0 1
+Kd 1 0 1
+d 0
+newmtl Chair_-_Boss_Design_-_The_Eye_Chair_Legs
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Trinity_Chair_Seat
+Ka 0.313725490196078 0.313725490196078 0.313725490196078
+Kd 0.313725490196078 0.313725490196078 0.313725490196078
+d 1
+newmtl Chair_-_Trinity_Chair_Leg
+Ka 0.313725490196078 0.313725490196078 0.313725490196078
+Kd 0.313725490196078 0.313725490196078 0.313725490196078
+d 1
+newmtl Chair_-_Theatre_-_Armchair_Seat
+Ka 1 0.501960784313725 0.752941176470588
+Kd 1 0.501960784313725 0.752941176470588
+d 0
+newmtl Chair_-_Theatre_-_Armchair_Leg
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Susanna_852_Seat
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Velvet.Black.png
+map_Kd Furnishings.Fabrics.Velvet.Black.png
+newmtl Chair_-_Susanna_852_Legs
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Soto_Chair_Legs
+Ka 0.0666666666666667 0.0666666666666667 0.0666666666666667
+Kd 0.0666666666666667 0.0666666666666667 0.0666666666666667
+d 0
+newmtl Chair_-_Soto_Chair_Seat
+Ka 0.501960784313725 0 0.501960784313725
+Kd 0.501960784313725 0 0.501960784313725
+d 0
+newmtl Chair_-_Sleepy_Oak_Chair_Legs
+Ka 0.941176470588235 0.443137254901961 0.156862745098039
+Kd 0.941176470588235 0.443137254901961 0.156862745098039
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Walnut.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Walnut.png
+newmtl Chair_-_Sleepy_Oak_Chair_Seat
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Leather.Black.png
+map_Kd Furnishings.Fabrics.Leather.Black.png
+newmtl Chair_-_Ross_Lovegrove_-_FO8_Chair_Frame
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Ross_Lovegrove_-_FO8_Chair_Seat
+Ka 0.501960784313725 1 1
+Kd 0.501960784313725 1 1
+d 0
+newmtl Chair_-_Ronald_Aarad_-_Arm_Chair_Leg
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Ronald_Aarad_-_Arm_Chair_Seat
+Ka 0.274509803921569 0.63921568627451 1
+Kd 0.274509803921569 0.63921568627451 1
+d 0
+newmtl Chair_-_Ron_Arad_-_fpe_Chair_Legs
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Ron_Arad_-_fpe_Chair_Seat
+Ka 0.8 0 0
+Kd 0.8 0 0
+d 0
+newmtl Chair_-_Reid_-_Armchair_Seat
+Ka 0.501960784313725 1 1
+Kd 0.501960784313725 1 1
+d 0
+newmtl Chair_-_Reid_-_Armchair_Leg
+Ka 0.0666666666666667 0.0666666666666667 0.0666666666666667
+Kd 0.0666666666666667 0.0666666666666667 0.0666666666666667
+d 0
+newmtl Chair_-_Regina_-_Arm_Chair_Leg
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Regina_-_Arm_Chair_Seat
+Ka 0.243137254901961 0.243137254901961 0.243137254901961
+Kd 0.243137254901961 0.243137254901961 0.243137254901961
+d 0
+newmtl Chair_-_Poul_Kjaerholm_-_pk22_Wicker_Leg
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Poul_Kjaerholm_-_pk22_Wicker_Sea
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Plaid.1.png
+map_Kd Furnishings.Fabrics.Plaid.1.png
+newmtl Chair_-_Portola_-_Armchair_Seat
+Ka 0.501960784313725 0 1
+Kd 0.501960784313725 0 1
+d 0
+newmtl Chair_-_Portola_-_Armchair_Legs
+Ka 0.0666666666666667 0.0666666666666667 0.0666666666666667
+Kd 0.0666666666666667 0.0666666666666667 0.0666666666666667
+d 0
+newmtl Chair_-_Philippe_Starck_-_Prince_Aha_Cha
+Ka 0.63921568627451 1 0.274509803921569
+Kd 0.63921568627451 1 0.274509803921569
+d 0
+newmtl Chair_-_Philippe_Starck_-_Olly_Tango_Cha
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Philippe_Starck_-_MissTrip_Leg
+Ka 0.964705882352941 0.643137254901961 0.188235294117647
+Kd 0.964705882352941 0.643137254901961 0.188235294117647
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Pine.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Pine.png
+newmtl Chair_-_Philippe_Starck_-_MissTrip_Seat
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Velvet.Black.png
+map_Kd Furnishings.Fabrics.Velvet.Black.png
+newmtl Chair_-_Philippe_Starck_-_Miss_Trip_Chai
+Ka 1 0.764705882352941 0.568627450980392
+Kd 1 0.764705882352941 0.568627450980392
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Maple.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Maple.png
+newmtl Chair_-_One_Armed_-_Oak_Dining_Chair_Leg
+Ka 0.458823529411765 0.149019607843137 0.0627450980392157
+Kd 0.458823529411765 0.149019607843137 0.0627450980392157
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.White_Oak.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.White_Oak.png
+newmtl Chair_-_One_Armed_-_Oak_Dining_Chair_Sea
+Ka 0.917647058823529 0.917647058823529 0.917647058823529
+Kd 0.917647058823529 0.917647058823529 0.917647058823529
+d 0
+newmtl Chair_-_Neo_-_Armchair_Seat
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Leather.Pebble.Tan.png
+map_Kd Furnishings.Fabrics.Leather.Pebble.Tan.png
+newmtl Chair_-_Neo_-_Armchair_Leg
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Milano_-_Chair_Legs
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Milano_-_Chair_Seat
+Ka 1 0.501960784313725 1
+Kd 1 0.501960784313725 1
+d 0
+newmtl Chair_-_Michiel_van_der_Kley_-_Dive_Chai
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Melana_-_Armchair_Seat
+Ka 0.247058823529412 0.247058823529412 0.247058823529412
+Kd 0.247058823529412 0.247058823529412 0.247058823529412
+d 0
+newmtl Chair_-_Melana_-_Armchair_Legs
+Ka 0.0666666666666667 0.0666666666666667 0.0666666666666667
+Kd 0.0666666666666667 0.0666666666666667 0.0666666666666667
+d 0
+newmtl Chair_-_Matthew_Hilton_-_Reading_Armchai
+Ka 1 0.764705882352941 0.568627450980392
+Kd 1 0.764705882352941 0.568627450980392
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Maple.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Maple.png
+newmtl Chair_-_Matthew_Hilton_-_Club_Armchair_S
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Leather.Brown.png
+map_Kd Furnishings.Fabrics.Leather.Brown.png
+newmtl Chair_-_Matthew_Hilton_-_Club_Armchair_L
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Marco_Maran_-_Chair_X3_Leg
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Marco_Maran_-_Chair_X3_Seat
+Ka 0.654901960784314 1 0.309803921568627
+Kd 0.654901960784314 1 0.309803921568627
+d 0.2
+newmtl Furniture
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+d 1
+newmtl Chair_-_Marc_Newson_-_Felt_Chair_Seat
+Ka 0.0666666666666667 0.0666666666666667 0.0666666666666667
+Kd 0.0666666666666667 0.0666666666666667 0.0666666666666667
+d 0
+newmtl Chair_-_Maarten_Van_Severn_-_.03_Chair_L
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chair_-_Maarten_Van_Severn_-_.03_Chair_S
+Ka 1 0.501960784313725 0
+Kd 1 0.501960784313725 0
+d 0
+newmtl Chair_-_Maarten_van_Severen_-_Icp_Lounge
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Lighting Fixtures
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+d 1
+newmtl End_Table_-_Booklamp_-_White_Plastic
+Ka 0.917647058823529 0.917647058823529 0.917647058823529
+Kd 0.917647058823529 0.917647058823529 0.917647058823529
+d 0
+newmtl End_Table_-_Booklamp_-_Wood
+Ka 1 0.67843137254902 0.411764705882353
+Kd 1 0.67843137254902 0.411764705882353
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Maple.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Maple.png
+newmtl End_Table_-_012_Atlantico_Bedside_-_Wood
+Ka 1 0.470588235294118 0.00784313725490196
+Kd 1 0.470588235294118 0.00784313725490196
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Cherry.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Cherry.png
+newmtl Dresser_-_Partu_Long_Dresser_18_-_Hardwa
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Dresser_-_Partu_Long_Dresser_18_-_Wood
+Ka 0.941176470588235 0.443137254901961 0.156862745098039
+Kd 0.941176470588235 0.443137254901961 0.156862745098039
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Walnut.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Walnut.png
+newmtl Dresser_-_Partu_Long_Dresser_11_-_Hardwa
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Dresser_-_Partu_Long_Dresser_11_-_Wood
+Ka 0.941176470588235 0.443137254901961 0.156862745098039
+Kd 0.941176470588235 0.443137254901961 0.156862745098039
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Walnut.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Walnut.png
+newmtl Dresser_-_Partu_Long_Dresser_09_-_Hardwa
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Dresser_-_Partu_Long_Dresser_09_-_Wood
+Ka 0.941176470588235 0.443137254901961 0.156862745098039
+Kd 0.941176470588235 0.443137254901961 0.156862745098039
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Walnut.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Walnut.png
+newmtl Dresser_-_Partu_Long_Dresser_03_-_Hardwa
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Dresser_-_Partu_Long_Dresser_03_-_Wood
+Ka 0.941176470588235 0.443137254901961 0.156862745098039
+Kd 0.941176470588235 0.443137254901961 0.156862745098039
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Walnut.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Walnut.png
+newmtl Dressser_-_Nelson_Miniature_Chest_9_Draw
+Ka 0.0196078431372549 0.0196078431372549 0.0196078431372549
+Kd 0.0196078431372549 0.0196078431372549 0.0196078431372549
+d 0
+newmtl Dresser_-_Cherner__6_Drawer_-_Dark_Wood
+Ka 0.419607843137255 0.137254901960784 0
+Kd 0.419607843137255 0.137254901960784 0
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Mahogany.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Mahogany.png
+newmtl Dresser_-_Cherner__6_Drawer_-_Light_Wood
+Ka 1 1 1
+Kd 1 1 1
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Mahogany.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Mahogany.png
+newmtl Default_Wall
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+d 0
+newmtl Downspout_-_Wall_Mounted_-_White_Paint
+Ka 1 1 1
+Kd 1 1 1
+d 0
+newmtl Daybed_-_America_Modern_-_Daybed_Cushion
+Ka 0.501960784313725 0.501960784313725 1
+Kd 0.501960784313725 0.501960784313725 1
+d 0
+newmtl Daybed_-_America_Modern_-_Daybed_Leg
+Ka 1 0.470588235294118 0.00784313725490196
+Kd 1 0.470588235294118 0.00784313725490196
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Cherry.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Cherry.png
+newmtl Credenza_-_Plateau_Media_Cabinet_-_Hardw
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Credenza_-_Plateau_Media_Cabinet_-_Light
+Ka 1 1 1
+Kd 1 1 1
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.White_Oak.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.White_Oak.png
+newmtl Credenza_-_Plateau_Media_Cabinet_-_Dark_
+Ka 0.941176470588235 0.443137254901961 0.156862745098039
+Kd 0.941176470588235 0.443137254901961 0.156862745098039
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Walnut.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Walnut.png
+newmtl Credenza_-_Plateau_Credenza_-_Stainless_
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+map_Ka Metals.Ornamental_Metals.Aluminum.Brushed.Random.png
+map_Kd Metals.Ornamental_Metals.Aluminum.Brushed.Random.png
+newmtl Credenza_-_Plateau_Credenza_-_Light_Wood
+Ka 1 1 1
+Kd 1 1 1
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Mahogany.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Mahogany.png
+newmtl Credenza_-_Low-Down_Media_Cabinet_-_Hard
+Ka 0 0 0
+Kd 0 0 0
+d 0
+newmtl Credenza_-_Low-Down_Media_Cabinet_-_Whit
+Ka 1 1 1
+Kd 1 1 1
+d 0
+newmtl Credenza_-_Low-Down_Media_Cabinet_-_Wood
+Ka 0.941176470588235 0.443137254901961 0.156862745098039
+Kd 0.941176470588235 0.443137254901961 0.156862745098039
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Walnut.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Walnut.png
+newmtl Credenza_-_Cherner_4_Drawer_-_Dark_Wood
+Ka 0.419607843137255 0.137254901960784 0
+Kd 0.419607843137255 0.137254901960784 0
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Mahogany.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Mahogany.png
+newmtl Credenza_-_Cherner_4_Drawer_-_Light_Wood
+Ka 1 1 1
+Kd 1 1 1
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Mahogany.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Mahogany.png
+newmtl Credenza_-_Cherner_4_Door_-_Dark_Wood
+Ka 0.419607843137255 0.137254901960784 0
+Kd 0.419607843137255 0.137254901960784 0
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Mahogany.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Mahogany.png
+newmtl Credenza_-_Cherner_4_Door_-_Light_Wood
+Ka 1 1 1
+Kd 1 1 1
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Mahogany.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Mahogany.png
+newmtl Cofee_Table_-_Plateau_Coffee_Table_-_Sta
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Cofee_Table_-_Plateau_Coffee_Table_-_Sea
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Velvet.Black.png
+map_Kd Furnishings.Fabrics.Velvet.Black.png
+newmtl Cofee_Table_-_Plateau_Coffee_Table_-_Woo
+Ka 1 1 1
+Kd 1 1 1
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.White_Oak.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.White_Oak.png
+newmtl Coffee_Table_-_Modern_-_Brushed_Aluminum
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+map_Ka Metals.Ornamental_Metals.Aluminum.Brushed.Random.png
+map_Kd Metals.Ornamental_Metals.Aluminum.Brushed.Random.png
+newmtl Coffee_Table_-_Modern_-_Laminate_Finish
+Ka 0.0666666666666667 0.0666666666666667 0.0666666666666667
+Kd 0.0666666666666667 0.0666666666666667 0.0666666666666667
+d 0
+newmtl Coffee_Table_-_Modern_-_Laminate_White
+Ka 0.949019607843137 0.949019607843137 1
+Kd 0.949019607843137 0.949019607843137 1
+d 0
+newmtl Coffee_Table_-_Mare_Table_-_Stainless_St
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Coffee_Table_-_Mare_Table_-_Top
+Ka 0.0196078431372549 0.0196078431372549 0.0196078431372549
+Kd 0.0196078431372549 0.0196078431372549 0.0196078431372549
+d 0
+newmtl Coffee_Table_-_Four_Lo_-_Stainless_Steel
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Coffee_Table_-_Four_Lo_-_Top
+Ka 0.831372549019608 0.4 0.0901960784313725
+Kd 0.831372549019608 0.4 0.0901960784313725
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Cherry.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Cherry.png
+newmtl Coffee_Table_-_Contemporary_-_White_Mate
+Ka 0.917647058823529 0.917647058823529 0.917647058823529
+Kd 0.917647058823529 0.917647058823529 0.917647058823529
+d 0
+newmtl Coffee_Table_-_Contemporary_-_Black_Mate
+Ka 0.0196078431372549 0.0196078431372549 0.0196078431372549
+Kd 0.0196078431372549 0.0196078431372549 0.0196078431372549
+d 0
+newmtl Cofee_Table_-_ch106-8_-_Stainless_Steel
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Cofee_Table_-_ch106-8_-_Glass
+Ka 0.866666666666667 0.866666666666667 0.866666666666667
+Kd 0.866666666666667 0.866666666666667 0.866666666666667
+d 0.2
+newmtl Coffee_Table_-_Boss_Design_-_Milli_Table
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Coffee_Table_-_905_Table_-_Stainless_Ste
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Coffee_Table_-_905_Table_-_Top
+Ka 0.0196078431372549 0.0196078431372549 0.0196078431372549
+Kd 0.0196078431372549 0.0196078431372549 0.0196078431372549
+d 0
+newmtl Mag_Cover
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+newmtl Table
+Ka 0.956862745098039 0.956862745098039 0.956862745098039
+Kd 0.956862745098039 0.956862745098039 0.956862745098039
+d 0
+newmtl Mag
+Ka 0.956862745098039 0.956862745098039 0.956862745098039
+Kd 0.956862745098039 0.956862745098039 0.956862745098039
+d 0
+newmtl Cofeee_Table_-_Side_Glass_-_Leg
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Cofeee_Table_-_Side_Glass_-_Top
+Ka 0.866666666666667 0.866666666666667 0.866666666666667
+Kd 0.866666666666667 0.866666666666667 0.866666666666667
+d 0.2
+newmtl Chaise_-_Vega_-_Chaise_Platform
+Ka 0.0666666666666667 0.0666666666666667 0.0666666666666667
+Kd 0.0666666666666667 0.0666666666666667 0.0666666666666667
+d 0
+newmtl Chaise_-_Vega_-_Chaise_Seat
+Ka 1 0.501960784313725 1
+Kd 1 0.501960784313725 1
+d 0
+newmtl Chaise_-_Neo_-_Sofa_Chaise_Seat
+Ka 0.501960784313725 0.501960784313725 0.501960784313725
+Kd 0.501960784313725 0.501960784313725 0.501960784313725
+d 0
+newmtl Chaise_-_Neo_-_Sofa_Chaise_Leg
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chaise_-_Libre_-_Sofa_Chaise_Seat
+Ka 1 0.184313725490196 0.592156862745098
+Kd 1 0.184313725490196 0.592156862745098
+d 0
+newmtl Chaise_-_Libre_-_Sofa_Chaise_Leg
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Chaise_-_America_Modern_-_Chaise_Cushion
+Ka 0.0196078431372549 0.0196078431372549 0.0196078431372549
+Kd 0.0196078431372549 0.0196078431372549 0.0196078431372549
+d 0
+newmtl Chaise_-_America_Modern_-_Chaise_Leg
+Ka 0.792156862745098 0.501960784313725 0.0705882352941176
+Kd 0.792156862745098 0.501960784313725 0.0705882352941176
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Red_Birch.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Red_Birch.png
+newmtl Chair_-_Vico_Magistretti_-_Bistro_Chair_
+Ka 0.0666666666666667 0.0666666666666667 0.0666666666666667
+Kd 0.0666666666666667 0.0666666666666667 0.0666666666666667
+d 0
+newmtl Chair_-_Venecia_-_Dining_Chair_Seat
+Ka 0.858823529411765 0.345098039215686 0
+Kd 0.858823529411765 0.345098039215686 0
+d 0
+newmtl Chair_-_Venecia_-_Dining_Chair_Legs
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Entourage_-Arco_Floor_Lamp_-_Chrome
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Entourage_-Arco_Floor_Lamp_-_Concrete
+Ka 0.698039215686274 0.698039215686274 0.698039215686274
+Kd 0.698039215686274 0.698039215686274 0.698039215686274
+d 0
+newmtl Entourage__-_Circle_Rug_-_White_Carpet
+Ka 1 1 1
+Kd 1 1 1
+d 1
+map_Ka Finishes.Flooring.Carpet.Beige.Colour.png
+map_Kd Finishes.Flooring.Carpet.Beige.Colour.png
+newmtl End_Table_-_Y805_Small_-_Natural_Wood
+Ka 1 1 1
+Kd 1 1 1
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Red_Birch.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Red_Birch.png
+newmtl End_Table_-_Y805_Small_-_Clear_Glass
+Ka 0.866666666666667 0.866666666666667 0.866666666666667
+Kd 0.866666666666667 0.866666666666667 0.866666666666667
+d 0.2
+newmtl End_Table_-_Strut_Side_-_Red_Plastic
+Ka 0.8 0 0
+Kd 0.8 0 0
+d 0
+newmtl BedTable_Series11Nightstand_PolishedChro
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl BedTable_Series11Nightstand_NaturalWood
+Ka 1 0.67843137254902 0.411764705882353
+Kd 1 0.67843137254902 0.411764705882353
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Maple.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Maple.png
+newmtl End_Table_-_Platner_Side_-_Chrome
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl End_Table_-_Platner_Side_-_Glass
+Ka 0.866666666666667 0.866666666666667 0.866666666666667
+Kd 0.866666666666667 0.866666666666667 0.866666666666667
+d 0.2
+newmtl End_Table_-_One_Lo_-_Stainless_Steel
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl End_Table_-_One_Lo_-_Top
+Ka 0.831372549019608 0.4 0.0901960784313725
+Kd 0.831372549019608 0.4 0.0901960784313725
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Cherry.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Cherry.png
+newmtl End_Table_-_Nest_Side_-_Wood
+Ka 0.462745098039216 0.290196078431373 0.0392156862745098
+Kd 0.462745098039216 0.290196078431373 0.0392156862745098
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Red_Birch.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Red_Birch.png
+newmtl End_Table_-_Nest_Side_-_White_Plastic
+Ka 0.917647058823529 0.917647058823529 0.917647058823529
+Kd 0.917647058823529 0.917647058823529 0.917647058823529
+d 0
+newmtl End_Table_-_Nest_Side_-_Chrome
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl End_Table_-_Nelson_Pedestal_Small_End_-_
+Ka 1 0.67843137254902 0.411764705882353
+Kd 1 0.67843137254902 0.411764705882353
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Maple.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Maple.png
+newmtl End_Table_-_Modern_Bed_Side_-_Black_Plas
+Ka 0.0196078431372549 0.0196078431372549 0.0196078431372549
+Kd 0.0196078431372549 0.0196078431372549 0.0196078431372549
+d 0
+newmtl End_Table_-_Modern_Bed_Side_-_Natural_Wo
+Ka 1 0.67843137254902 0.411764705882353
+Kd 1 0.67843137254902 0.411764705882353
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Maple.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Maple.png
+newmtl End_Table_-_Hocker_-_White_Plastic
+Ka 0.917647058823529 0.917647058823529 0.917647058823529
+Kd 0.917647058823529 0.917647058823529 0.917647058823529
+d 0
+newmtl End_Table_-_Gehry_Face_Off_-_Natural_Woo
+Ka 1 0.67843137254902 0.411764705882353
+Kd 1 0.67843137254902 0.411764705882353
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Maple.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Maple.png
+newmtl End_Table_-_Gehry_Face_Off_-_Clear_Glass
+Ka 0.866666666666667 0.866666666666667 0.866666666666667
+Kd 0.866666666666667 0.866666666666667 0.866666666666667
+d 0.2
+newmtl Table_-_End_Book_-_White_Wood
+Ka 1 1 1
+Kd 1 1 1
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.White_Oak.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.White_Oak.png
+newmtl End_Table_-_Eames_Wirebase_-_Chrome
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl End_Table_-_Eames_Wirebase_-_Black_Plast
+Ka 0.0196078431372549 0.0196078431372549 0.0196078431372549
+Kd 0.0196078431372549 0.0196078431372549 0.0196078431372549
+d 0
+newmtl End_Table_-_Eames_Wirebase_-_Natural_Woo
+Ka 1 0.67843137254902 0.411764705882353
+Kd 1 0.67843137254902 0.411764705882353
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Maple.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Maple.png
+newmtl End_Table_-_Eames_Wood_Stools_-_Wood
+Ka 0.941176470588235 0.443137254901961 0.156862745098039
+Kd 0.941176470588235 0.443137254901961 0.156862745098039
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Walnut.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Walnut.png
+newmtl End_Table_-_Drift_Night_Stand_-_Black_Pl
+Ka 0.0196078431372549 0.0196078431372549 0.0196078431372549
+Kd 0.0196078431372549 0.0196078431372549 0.0196078431372549
+d 0
+newmtl End_Table_-_Drift_Night_Stand_-_Wood
+Ka 1 0.67843137254902 0.411764705882353
+Kd 1 0.67843137254902 0.411764705882353
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Maple.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Maple.png
+newmtl End_Table_-_Componibili_3_Elements_-_Bla
+Ka 0.0196078431372549 0.0196078431372549 0.0196078431372549
+Kd 0.0196078431372549 0.0196078431372549 0.0196078431372549
+d 0
+newmtl End_Table_-_Componibili_3_Elements_-_Sil
+Ka 0.658823529411765 0.658823529411765 0.658823529411765
+Kd 0.658823529411765 0.658823529411765 0.658823529411765
+d 0
+newmtl End_Table_-_Componibili_2_Elements_-_Bla
+Ka 0.0196078431372549 0.0196078431372549 0.0196078431372549
+Kd 0.0196078431372549 0.0196078431372549 0.0196078431372549
+d 0
+newmtl End_Table_-_Componibili_2_Elements_-_Sil
+Ka 0.658823529411765 0.658823529411765 0.658823529411765
+Kd 0.658823529411765 0.658823529411765 0.658823529411765
+d 0
+newmtl End_Table_-_Case_Study_Bedside_-_Wood
+Ka 1 0.67843137254902 0.411764705882353
+Kd 1 0.67843137254902 0.411764705882353
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Maple.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Maple.png
+newmtl End_Table_-_Boss_Design_-_The_Rota_Table
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl End_Table_-_Boss_Design_-_Milli_Table_Sm
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Entourage_-_Modern_Vase_-_Vase
+Ka 0.176470588235294 0.0862745098039216 0
+Kd 0.176470588235294 0.0862745098039216 0
+d 0
+newmtl Entourage_-_Modern_Rug_2_-_Black_Carpet
+Ka 0.156862745098039 0.156862745098039 0.156862745098039
+Kd 0.156862745098039 0.156862745098039 0.156862745098039
+d 1
+map_Ka Finishes.Flooring.Carpet.Beige.Colour.png
+map_Kd Finishes.Flooring.Carpet.Beige.Colour.png
+newmtl Entourage_-_Modern_Rug_2_-_White_Carpet
+Ka 1 1 1
+Kd 1 1 1
+d 1
+map_Ka Finishes.Flooring.Carpet.Beige.Colour.png
+map_Kd Finishes.Flooring.Carpet.Beige.Colour.png
+newmtl Entourage_-_Modern_Rug_-_Black_Carpet
+Ka 0.156862745098039 0.156862745098039 0.156862745098039
+Kd 0.156862745098039 0.156862745098039 0.156862745098039
+d 1
+map_Ka Finishes.Flooring.Carpet.Beige.Colour.png
+map_Kd Finishes.Flooring.Carpet.Beige.Colour.png
+newmtl Entourage_-_Modern_Rug_-_White_Carpet
+Ka 1 1 1
+Kd 1 1 1
+d 1
+map_Ka Finishes.Flooring.Carpet.Beige.Colour.png
+map_Kd Finishes.Flooring.Carpet.Beige.Colour.png
+newmtl Entourage_-_Modern_Flower_Pot_Small
+Ka 0.937254901960784 0.949019607843137 0.976470588235294
+Kd 0.937254901960784 0.949019607843137 0.976470588235294
+d 0
+newmtl Entourage_-_Modern_Flower_Pot_Large
+Ka 0.937254901960784 0.949019607843137 0.976470588235294
+Kd 0.937254901960784 0.949019607843137 0.976470588235294
+d 0
+newmtl Entourage_-_Miss_K_Table_Lamp_-_Lightbul
+Ka 0.898039215686275 0.898039215686275 0.898039215686275
+Kd 0.898039215686275 0.898039215686275 0.898039215686275
+d 0.2
+newmtl Entourage_-_Miss_K_Table_Lamp_-_Chrome
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Entourage_-_Miss_K_Table_Lamp_-_Shade
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Mesh.png
+map_Kd Furnishings.Fabrics.Mesh.png
+newmtl Entourage_-_Miss_K_Table_Lamp_-_Base
+Ka 0.647058823529412 0.647058823529412 0.647058823529412
+Kd 0.647058823529412 0.647058823529412 0.647058823529412
+d 0.5
+newmtl Entourage_-_Mirror_-_Traditional_Wall_Mo
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+d 0
+newmtl Entourage_-_Mirror_-_Oval_Wall_Mounted_-
+Ka 0.862745098039216 0.909803921568627 0.862745098039216
+Kd 0.862745098039216 0.909803921568627 0.862745098039216
+d 0
+newmtl Entourage_-_Mirror_-_Modern_Wall_Mounted
+Ka 0.862745098039216 0.909803921568627 0.862745098039216
+Kd 0.862745098039216 0.909803921568627 0.862745098039216
+d 0
+newmtl Mirror_-_Lean_Mirror_-_Mirror
+Ka 0.862745098039216 0.909803921568627 0.862745098039216
+Kd 0.862745098039216 0.909803921568627 0.862745098039216
+d 0
+newmtl Mirror_-_Lean_Mirror_-_Wood
+Ka 1 1 1
+Kd 1 1 1
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.White_Oak.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.White_Oak.png
+newmtl Entourage_-_Mirror_-_Floor_Mirror_-_Stai
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Entourage_-_Mirror_-_Floor_Mirror_-_Mirr
+Ka 0.862745098039216 0.909803921568627 0.862745098039216
+Kd 0.862745098039216 0.909803921568627 0.862745098039216
+d 0
+newmtl Entourage_-_Mid-Century_Modern_Floor_Lam
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Entourage_-_Max_Bill_Wall_Clock_-_White_
+Ka 1 1 1
+Kd 1 1 1
+d 0
+newmtl Entourage_-_Max_Bill_Wall_Clock_-_Chome
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Entourage_-_Gravity_Floor_Lamp_-_Lamp
+Ka 0.909803921568627 0.909803921568627 0.909803921568627
+Kd 0.909803921568627 0.909803921568627 0.909803921568627
+d 0.05
+newmtl Entourage_-_Gravity_Floor_Lamp_-_White_P
+Ka 0.949019607843137 0.949019607843137 1
+Kd 0.949019607843137 0.949019607843137 1
+d 0
+newmtl Entourage_-_Glo-Ball_Table_Lamp_-_Lamp
+Ka 0.909803921568627 0.909803921568627 0.909803921568627
+Kd 0.909803921568627 0.909803921568627 0.909803921568627
+d 0.05
+newmtl Entourage_-_Glo-Ball_Table_Lamp_-_Chrome
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Entourage_-_Glo-Ball_Floor_Lamp_-_Lamp
+Ka 0.909803921568627 0.909803921568627 0.909803921568627
+Kd 0.909803921568627 0.909803921568627 0.909803921568627
+d 0.05
+newmtl Entourage_-_Glo-Ball_Floor_Lamp_-_Chrome
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Entourage_-_George_Nelson_Asterisk_Clock
+Ka 0.0666666666666667 0.0666666666666667 0.0666666666666667
+Kd 0.0666666666666667 0.0666666666666667 0.0666666666666667
+d 0
+newmtl Entourage_-_Fireside_Tools_With_Stand_-_
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Entourage_-_Fireside_Log_Stand_-_Handle
+Ka 0.0196078431372549 0.0196078431372549 0.0196078431372549
+Kd 0.0196078431372549 0.0196078431372549 0.0196078431372549
+d 0
+newmtl Entourage_-_Fireside_Log_Stand_-_Stainle
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Entourage_-_Coat_Rack_Modern_-_Wall_Moun
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Entourage_-_Coat_Rack_-_Coat_Tree_-_Whit
+Ka 0.949019607843137 0.949019607843137 1
+Kd 0.949019607843137 0.949019607843137 1
+d 0
+newmtl Entourage_-_Coat_Rack_-_Clothes_Tree_160
+Ka 0.698039215686274 0 0
+Kd 0.698039215686274 0 0
+d 0
+newmtl Entourage_-_Brera_Floor_Lamp_-_Lamp
+Ka 0.909803921568627 0.909803921568627 0.909803921568627
+Kd 0.909803921568627 0.909803921568627 0.909803921568627
+d 0.05
+newmtl Entourage_-_Brera_Floor_Lamp_-_Chrome
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Television-Frame_Black-Plastic
+Ka 0.0196078431372549 0.0196078431372549 0.0196078431372549
+Kd 0.0196078431372549 0.0196078431372549 0.0196078431372549
+d 0
+newmtl Television-Glass
+Ka 0.772549019607843 0.823529411764706 0.768627450980392
+Kd 0.772549019607843 0.823529411764706 0.768627450980392
+d 0.2
+newmtl Entourage_-_Towel
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Canvas.white.png
+map_Kd Furnishings.Fabrics.Canvas.white.png
+newmtl Entourage_-_Towel_Bar_-_Steel
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+map_Ka Metals.Ornamental_Metals.Aluminum.Brushed.Random.png
+map_Kd Metals.Ornamental_Metals.Aluminum.Brushed.Random.png
+newmtl Entourage_-_Toilet_Paper
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Canvas.white.png
+map_Kd Furnishings.Fabrics.Canvas.white.png
+newmtl Entourage_-_Toilet_Paper_Holder_-_Steel
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+map_Ka Metals.Ornamental_Metals.Aluminum.Brushed.Random.png
+map_Kd Metals.Ornamental_Metals.Aluminum.Brushed.Random.png
+newmtl Entourage_-_Toaster_-_Plastic
+Ka 0.0196078431372549 0.0196078431372549 0.0196078431372549
+Kd 0.0196078431372549 0.0196078431372549 0.0196078431372549
+d 0
+newmtl Entourage_-_Toaster_-_Clear_Plastic
+Ka 1 1 1
+Kd 1 1 1
+d 0.5
+newmtl Entourage_-_Toaster_-_Steel
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Entourage_-_Paper_Towel_Holder_-_Stainle
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Entourage_-_Paper_Towel_Holder_-_Paper_T
+Ka 1 1 1
+Kd 1 1 1
+d 1
+map_Ka Furnishings.Fabrics.Linen.Beige.png
+map_Kd Furnishings.Fabrics.Linen.Beige.png
+newmtl Entourage_-_Knife_Block_-_Knife_-_Handle
+Ka 0.0196078431372549 0.0196078431372549 0.0196078431372549
+Kd 0.0196078431372549 0.0196078431372549 0.0196078431372549
+d 0
+newmtl Entourage_-_Knife_Block_-_Wood
+Ka 0.419607843137255 0.137254901960784 0
+Kd 0.419607843137255 0.137254901960784 0
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Mahogany.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Mahogany.png
+newmtl Entourage_-_Dining_Set_-_Steel_Material
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Entourage_-_Dining_Set_-_Cloth_Material
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Canvas.white.png
+map_Kd Furnishings.Fabrics.Canvas.white.png
+newmtl Entourage_-_Dining_Set_-_Glass_Material
+Ka 0.866666666666667 0.866666666666667 0.866666666666667
+Kd 0.866666666666667 0.866666666666667 0.866666666666667
+d 0.2
+newmtl Entourage_-_Dining_Set-_Plate_Material
+Ka 0.956862745098039 0.956862745098039 0.956862745098039
+Kd 0.956862745098039 0.956862745098039 0.956862745098039
+d 0
+newmtl Entourage_-_Coffee_Maker_-_Plastic
+Ka 0.0196078431372549 0.0196078431372549 0.0196078431372549
+Kd 0.0196078431372549 0.0196078431372549 0.0196078431372549
+d 0
+newmtl Entourage_-_Coffee_Maker_-_Glass
+Ka 0.866666666666667 0.866666666666667 0.866666666666667
+Kd 0.866666666666667 0.866666666666667 0.866666666666667
+d 0.2
+newmtl Entourage_-_Coffee_Maker_-_Screen
+Ka 0.909803921568627 0.909803921568627 0.909803921568627
+Kd 0.909803921568627 0.909803921568627 0.909803921568627
+d 0.05
+newmtl Entourage_-_Coffee_Maker_-_Stainless_Ste
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Banana_Holder_-_Steel
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Entourage_-_Wine_Rack_-_Wall_Mounted_-_C
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Entourage_-_Wine_Rack_-_Wall_Mounted_-_W
+Ka 0.8 0.537254901960784 0.317647058823529
+Kd 0.8 0.537254901960784 0.317647058823529
+d 0
+newmtl Entourage_-_Wine_Rack_-_Wall_Mounted_-_B
+Ka 0.207843137254902 0.203921568627451 0.227450980392157
+Kd 0.207843137254902 0.203921568627451 0.227450980392157
+d 0.2
+newmtl Entourage_-_Wine_Rack_-_Wall_Mounted_-_G
+Ka 0.36078431372549 0.345098039215686 0.0666666666666667
+Kd 0.36078431372549 0.345098039215686 0.0666666666666667
+d 0.2
+newmtl Entourage_-_Wine_Rack_-_Surface_Mounted_
+Ka 1 1 1
+Kd 1 1 1
+d 0
+map_Ka silver_maple_chocolateBrown.png
+map_Kd silver_maple_chocolateBrown.png
+newmtl Entourage_-_Vase_with_Bamboo_-_Bamboo
+Ka 0.949019607843137 0.815686274509804 0.356862745098039
+Kd 0.949019607843137 0.815686274509804 0.356862745098039
+d 0
+newmtl Entourage_-_Vase_with_Bamboo_-_Vase
+Ka 0.956862745098039 0.956862745098039 0.956862745098039
+Kd 0.956862745098039 0.956862745098039 0.956862745098039
+d 0
+newmtl Entourage_-_Traditional_Table_Lamp_-_Lam
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Linen.Beige.png
+map_Kd Furnishings.Fabrics.Linen.Beige.png
+newmtl Entourage_-_Traditional_Table_Lamp_-_Chr
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Entourage_-_Traditional_Rug_-_Tan_Carpet
+Ka 0.854901960784314 0.76078431372549 0.666666666666667
+Kd 0.854901960784314 0.76078431372549 0.666666666666667
+d 1
+map_Ka Finishes.Flooring.Carpet.Beige.Colour.png
+map_Kd Finishes.Flooring.Carpet.Beige.Colour.png
+newmtl Entourage_-_Traditional_Rug_-_Brown_Carp
+Ka 0.423529411764706 0.356862745098039 0.325490196078431
+Kd 0.423529411764706 0.356862745098039 0.325490196078431
+d 1
+map_Ka Finishes.Flooring.Carpet.Beige.Colour.png
+map_Kd Finishes.Flooring.Carpet.Beige.Colour.png
+newmtl Entourage_-_Traditional_Floor_Lamp_-_Lam
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Linen.Beige.png
+map_Kd Furnishings.Fabrics.Linen.Beige.png
+newmtl Entourage_-_Traditional_Floor_Lamp_-_Chr
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Entourage_-_Terra_Cotta_Flower_Pot
+Ka 0.874509803921569 0.490196078431373 0.376470588235294
+Kd 0.874509803921569 0.490196078431373 0.376470588235294
+d 0
+newmtl Entourage_-_Table_Candles_-_Candle_Flame
+Ka 1 1 0.756862745098039
+Kd 1 1 0.756862745098039
+d 0.1
+newmtl Entourage_-_Table_Candles_-_Candle_Wick
+Ka 0.0196078431372549 0.0196078431372549 0.0196078431372549
+Kd 0.0196078431372549 0.0196078431372549 0.0196078431372549
+d 0
+newmtl Entourage_-_Table_Candles_-_Water
+Ka 0.92156862745098 0.945098039215686 0.92156862745098
+Kd 0.92156862745098 0.945098039215686 0.92156862745098
+d 0.4
+newmtl Entourage_-_Table_Candles_-_Candle
+Ka 0.968627450980392 0.968627450980392 0.898039215686275
+Kd 0.968627450980392 0.968627450980392 0.898039215686275
+d 0.9
+newmtl Entourage_-_Table_Candles_-_Vase_Glass
+Ka 0.866666666666667 0.866666666666667 0.866666666666667
+Kd 0.866666666666667 0.866666666666667 0.866666666666667
+d 0.2
+newmtl Entourage_-_S-Shaped_Floor_Vase
+Ka 0.0784313725490196 0.109803921568627 0.2
+Kd 0.0784313725490196 0.109803921568627 0.2
+d 0
+newmtl Entourage_-_Spun_Table_Lamp_-_White_Pain
+Ka 1 1 1
+Kd 1 1 1
+d 0
+newmtl Entourage_-_Spun_Table_Lamp_-_Black_Pain
+Ka 0.0666666666666667 0.0666666666666667 0.0666666666666667
+Kd 0.0666666666666667 0.0666666666666667 0.0666666666666667
+d 0
+newmtl Entourage_-_Small_Modern_Vase
+Ka 0.937254901960784 0.949019607843137 0.976470588235294
+Kd 0.937254901960784 0.949019607843137 0.976470588235294
+d 0
+newmtl Entourage_-_Shadow_Boxes
+Ka 0.529411764705882 0 0
+Kd 0.529411764705882 0 0
+d 0
+newmtl Entourage_-_Modern_Vase_with_Twigs_-_Twi
+Ka 0.643137254901961 0.52156862745098 0.384313725490196
+Kd 0.643137254901961 0.52156862745098 0.384313725490196
+d 0
+newmtl Entourage_-_Modern_Vase_with_Twigs_-_Vas
+Ka 1 1 1
+Kd 1 1 1
+d 0
+newmtl Fireplace_-_Two-Sided_-_Glass
+Ka 0.772549019607843 0.823529411764706 0.768627450980392
+Kd 0.772549019607843 0.823529411764706 0.768627450980392
+d 0.2
+newmtl Fireplace_-_Two-Sided_-_Black_Paint
+Ka 0 0 0
+Kd 0 0 0
+d 0
+newmtl Fireplace_-_Traditional_Insert_-_Black_M
+Ka 0 0 0
+Kd 0 0 0
+d 0
+newmtl Fireplace_-_Traditional_Insert_-_Glass
+Ka 0.772549019607843 0.823529411764706 0.768627450980392
+Kd 0.772549019607843 0.823529411764706 0.768627450980392
+d 0.2
+newmtl Fireplace_-_Three_Sided_-_Clear_Glass
+Ka 0.866666666666667 0.866666666666667 0.866666666666667
+Kd 0.866666666666667 0.866666666666667 0.866666666666667
+d 0.2
+newmtl Fireplace_-_Three_Sided_-_Black_Paint
+Ka 0.0392156862745098 0.0392156862745098 0.0392156862745098
+Kd 0.0392156862745098 0.0392156862745098 0.0392156862745098
+d 0
+newmtl Fireplace_-_Modern_Wall_Mounted_-_Black_
+Ka 0.313725490196078 0.313725490196078 0.313725490196078
+Kd 0.313725490196078 0.313725490196078 0.313725490196078
+d 1
+newmtl Fireplace_-_Modern_Wall_Mounted_Glass
+Ka 0.772549019607843 0.823529411764706 0.768627450980392
+Kd 0.772549019607843 0.823529411764706 0.768627450980392
+d 0.2
+newmtl Fireplace_-_Modern_Fireplace_-_Wall_Flam
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Sofa_-_Vega_-_Sofa_Seat
+Ka 1 0.501960784313725 1
+Kd 1 0.501960784313725 1
+d 0
+newmtl Sofa_-_Vega_-_Chaise_Platform
+Ka 0.0666666666666667 0.0666666666666667 0.0666666666666667
+Kd 0.0666666666666667 0.0666666666666667 0.0666666666666667
+d 0
+newmtl Sofa_-_Vega_-_Sectional_Sofa_and_Chaise_
+Ka 1 0.501960784313725 1
+Kd 1 0.501960784313725 1
+d 0
+newmtl Bed_-_Case_Study_Daybed_-_Velvet_Red
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Velvet.Red.png
+map_Kd Furnishings.Fabrics.Velvet.Red.png
+newmtl Bed_-_Case_Study_Daybed_-_Dark_Wood
+Ka 0.462745098039216 0.290196078431373 0.0392156862745098
+Kd 0.462745098039216 0.290196078431373 0.0392156862745098
+d 0
+map_Ka Woods_&_Plastics.Finish_Carpentry.Wood.Red_Birch.png
+map_Kd Woods_&_Plastics.Finish_Carpentry.Wood.Red_Birch.png
+newmtl Picture-Glass
+Ka 0.866666666666667 0.866666666666667 0.866666666666667
+Kd 0.866666666666667 0.866666666666667 0.866666666666667
+d 0.2
+newmtl Picture-Image
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+newmtl Picture-Frame_Paint_Black
+Ka 0.0666666666666667 0.0666666666666667 0.0666666666666667
+Kd 0.0666666666666667 0.0666666666666667 0.0666666666666667
+d 0
+newmtl Sofa_-__Soto_-_Loveseat_Sofa_Seat
+Ka 0.501960784313725 0 0
+Kd 0.501960784313725 0 0
+d 1
+map_Ka Furnishings.Fabrics.Leather.Black.png
+map_Kd Furnishings.Fabrics.Leather.Black.png
+newmtl Sofa_-__Soto_-_Loveseat_Sofa_Legs
+Ka 0.0666666666666667 0.0666666666666667 0.0666666666666667
+Kd 0.0666666666666667 0.0666666666666667 0.0666666666666667
+d 0
+newmtl Sofa_-_Albert_-_Sectional_Sofa_Seat
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Leather.Black.png
+map_Kd Furnishings.Fabrics.Leather.Black.png
+newmtl Sofa_-_Albert_-_Sectional_Sofa_Legs
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Sofa_-_Albert_-_Sierra_Seat
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Leather.Black.png
+map_Kd Furnishings.Fabrics.Leather.Black.png
+newmtl Sofa_-_Albert_-_Sierra_Sofa_Legs
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Sofa_-_Bellino_Sofa_-_Three_Seater_Sofa_
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Sofa_-_Bernard_-_Sectional_Sofa_Seat
+Ka 0.811764705882353 0.309803921568627 0
+Kd 0.811764705882353 0.309803921568627 0
+d 0
+newmtl Sofa_-_Bernard_-_Sectional_Sofa_Leg
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Sofa_-_Bernard_-_Three_Seater_Sofa_Leg
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Sofa_-_Bernard_-_Three_Seater_Sofa_Seat
+Ka 0.811764705882353 0.309803921568627 0
+Kd 0.811764705882353 0.309803921568627 0
+d 0
+newmtl Sofa_-_Boss_Design_-_Boxer_Fullsize_Sofa
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Leather.Black.png
+map_Kd Furnishings.Fabrics.Leather.Black.png
+newmtl Sofa_-_Boss_Design_-_Boxer_Loveseat_Seat
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Leather.Black.png
+map_Kd Furnishings.Fabrics.Leather.Black.png
+newmtl Sofa_-_Boss_Design_-_Boxer_Loveseat_Legs
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Sofa_-_Boss_Design_-_Four_Seater_Sofa_Se
+Ka 1 0.945098039215686 0.682352941176471
+Kd 1 0.945098039215686 0.682352941176471
+d 0
+newmtl Sofa_-_Boss_Design_-_Four_Seater_Sofa_Le
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Sofa_-_Boss_Design_-_Lofa_Sofa_Seat
+Ka 1 0.886274509803922 0.709803921568627
+Kd 1 0.886274509803922 0.709803921568627
+d 0
+newmtl Sofa_-_Boss_Design_-_Lofa_Sofa_Legs
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Sofa_-_Boss_Design_-_Three_Seater_Sofa_S
+Ka 1 0.945098039215686 0.682352941176471
+Kd 1 0.945098039215686 0.682352941176471
+d 0
+newmtl Sofa_-_Boss_Design_-_Three_Seater_Sofa_L
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Sofa_-_Cielo_-_Modern_Sectional_Sofa_Leg
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Sofa_-_Cielo_-_Modern_Sectional_Sofa_Sea
+Ka 0.733333333333333 0 0
+Kd 0.733333333333333 0 0
+d 1
+map_Ka Furnishings.Fabrics.Leather.Black.png
+map_Kd Furnishings.Fabrics.Leather.Black.png
+newmtl Sofa_-_Frank_-_Three_Seater_Sofa_Seat
+Ka 0.509803921568627 0.752941176470588 1
+Kd 0.509803921568627 0.752941176470588 1
+d 1
+map_Ka Furnishings.Fabrics.Leather.Black.png
+map_Kd Furnishings.Fabrics.Leather.Black.png
+newmtl Sofa_-_Frank_-_Three_Seater_Sofa_Leg
+Ka 0.0666666666666667 0.0666666666666667 0.0666666666666667
+Kd 0.0666666666666667 0.0666666666666667 0.0666666666666667
+d 0
+newmtl Sofa_-_Frank_-_Two_Seater_Sofa_Seat
+Ka 0.509803921568627 0.752941176470588 1
+Kd 0.509803921568627 0.752941176470588 1
+d 1
+map_Ka Furnishings.Fabrics.Leather.Black.png
+map_Kd Furnishings.Fabrics.Leather.Black.png
+newmtl Sofa_-_Frank_-_Two_Seater_Sofa_Leg
+Ka 0.0666666666666667 0.0666666666666667 0.0666666666666667
+Kd 0.0666666666666667 0.0666666666666667 0.0666666666666667
+d 0
+newmtl Sofa_-_Futon_Sofa_Bed_Leg_Material
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Sofa_-_Futon_Sofa_Bed_Sofa_Material
+Ka 0.0196078431372549 0.0196078431372549 0.0196078431372549
+Kd 0.0196078431372549 0.0196078431372549 0.0196078431372549
+d 0
+newmtl Sofa_-_Isamu_Noguchi_-_Freeform_Sofa_Sea
+Ka 0.580392156862745 1 0.156862745098039
+Kd 0.580392156862745 1 0.156862745098039
+d 1
+map_Ka Furnishings.Fabrics.Leather.Black.png
+map_Kd Furnishings.Fabrics.Leather.Black.png
+newmtl Sofa_-_Isamu_Noguchi_-_Freeform_Sofa_Leg
+Ka 0.0666666666666667 0.0666666666666667 0.0666666666666667
+Kd 0.0666666666666667 0.0666666666666667 0.0666666666666667
+d 0
+newmtl Sofa_-_Jedi_Loveseat_Legs
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Sofa_-_Jedi_Loveseat_Seat
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Velvet.Black.png
+map_Kd Furnishings.Fabrics.Velvet.Black.png
+newmtl Sofa_-_Jedi_Sofa_Seat
+Ka 0.623529411764706 0 0
+Kd 0.623529411764706 0 0
+d 1
+map_Ka Furnishings.Fabrics.Leather.Black.png
+map_Kd Furnishings.Fabrics.Leather.Black.png
+newmtl Sofa_-_Jedi_Sofa_Legs
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Sofa_-_Libre_-_Sectional_Sofa_Seat
+Ka 0.772549019607843 0.76078431372549 0.580392156862745
+Kd 0.772549019607843 0.76078431372549 0.580392156862745
+d 0
+newmtl Sofa_-_Libre_-_Sectional_Sofa_Leg
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Libre_-_Two_Seater_Sofa_Seat
+Ka 1 0.184313725490196 0.592156862745098
+Kd 1 0.184313725490196 0.592156862745098
+d 0
+newmtl Libre_-_Two_Seater_Sofa_Leg
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Sofa_-_Lowboy_Sofa_-_Three_Seater_Sofa_S
+Ka 0.843137254901961 0.780392156862745 0.670588235294118
+Kd 0.843137254901961 0.780392156862745 0.670588235294118
+d 0
+newmtl Sofa_-_Lowboy_Sofa_-_Three_Seater_Sofa_L
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Sofa_-_Lowboy_Sofa_-_Two_Seater_Sofa_Leg
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Sofa_-_Lowboy_Sofa_-_Two_Seater_Sofa_Sea
+Ka 0.843137254901961 0.780392156862745 0.670588235294118
+Kd 0.843137254901961 0.780392156862745 0.670588235294118
+d 0
+newmtl Sofa_-_Lowe_-_Sectional_Sofa_Seat
+Ka 0.666666666666667 0.666666666666667 1
+Kd 0.666666666666667 0.666666666666667 1
+d 0
+newmtl Sofa_-_Lowe_-_Sectional_Sofa_Legs
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Sofa_-_Michiel_van_der_Kley_-_Isobel_Sof
+Ka 0.623529411764706 0 0
+Kd 0.623529411764706 0 0
+d 1
+map_Ka Furnishings.Fabrics.Leather.Black.png
+map_Kd Furnishings.Fabrics.Leather.Black.png
+newmtl Sofa_-_Modern_Sectional_Sofa_Pillow
+Ka 0.917647058823529 0.917647058823529 0.917647058823529
+Kd 0.917647058823529 0.917647058823529 0.917647058823529
+d 0
+newmtl Sofa_-_Modern_Sectional_Sofa_Leg
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Sofa_-_Modern_Sectional_Sofa
+Ka 0.0196078431372549 0.0196078431372549 0.0196078431372549
+Kd 0.0196078431372549 0.0196078431372549 0.0196078431372549
+d 0
+newmtl Sofa_-_Neo_-_Sofa_Onearm_Seat
+Ka 0.247058823529412 0.247058823529412 0.247058823529412
+Kd 0.247058823529412 0.247058823529412 0.247058823529412
+d 0
+newmtl Sofa_-_Neo_-_Sofa_Onearm_Leg
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Sofa_-_Neo_-_Sofa_Sectional_Seat
+Ka 0.247058823529412 0.247058823529412 0.247058823529412
+Kd 0.247058823529412 0.247058823529412 0.247058823529412
+d 0
+newmtl Sofa_-_Neo_-_Sofa_Sectional_Leg
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Sofa_-_Neo_-_Sofa_Twoseater_Seat
+Ka 0.247058823529412 0.247058823529412 0.247058823529412
+Kd 0.247058823529412 0.247058823529412 0.247058823529412
+d 0
+newmtl Sofa_-_Neo_-_Sofa_Twoseater_Leg
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Sofa_-_Portola_-_Sofa_66_Inch_Loveseat_S
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Leather.Pebble.Brown.png
+map_Kd Furnishings.Fabrics.Leather.Pebble.Brown.png
+newmtl Sofa_-_Portola_-_Sofa_66_Inch_Loveseat_L
+Ka 0.0666666666666667 0.0666666666666667 0.0666666666666667
+Kd 0.0666666666666667 0.0666666666666667 0.0666666666666667
+d 0
+newmtl Sofa_-_Portola_-_Sofa_84_Inch_Threeseate
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Leather.Pebble.Brown.png
+map_Kd Furnishings.Fabrics.Leather.Pebble.Brown.png
+newmtl Sofa_-_Portola_-_Sofa_102_Inch_Threeseat
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Leather.Pebble.Brown.png
+map_Kd Furnishings.Fabrics.Leather.Pebble.Brown.png
+newmtl Sofa_-_Reid_-_Loveseat_84_inch_Seat
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 1
+map_Ka Furnishings.Fabrics.Leather.Brown.png
+map_Kd Furnishings.Fabrics.Leather.Brown.png
+newmtl Sofa_-_Reid_-_Loveseat_84_inch_Leg
+Ka 0.0666666666666667 0.0666666666666667 0.0666666666666667
+Kd 0.0666666666666667 0.0666666666666667 0.0666666666666667
+d 0
+newmtl Sofa_-_Theatre_-_Fullsize_Sofa_Seat
+Ka 0.843137254901961 0.780392156862745 0.670588235294118
+Kd 0.843137254901961 0.780392156862745 0.670588235294118
+d 0
+newmtl Sofa_-_Theatre_-_Fullsize_Sofa_Leg
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Sofa_-_Theatre_-_Loveseat_Seat
+Ka 0.6 1 0.2
+Kd 0.6 1 0.2
+d 0
+newmtl Sofa_-_Theatre_-_Loveseat_Leg
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Sofa_-_Ronald_Aarad_-_Three_Seater_Leg
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Sofa_-_Ronald_Aarad_-_Three_Seater_Seat
+Ka 1 0.501960784313725 1
+Kd 1 0.501960784313725 1
+d 0
+newmtl Sofa_-_Ronald_Aarad_-_Two_Seater_Leg
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+d 0
+newmtl Sofa_-_Ronald_Aarad_-_Two_Seater_Seat
+Ka 0.592156862745098 1 0.184313725490196
+Kd 0.592156862745098 1 0.184313725490196
+d 0
+
